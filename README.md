@@ -97,5 +97,9 @@
    python -m venv venv
    source venv/bin/activate  # Windows 使用 `venv\Scripts\activate`
 
+3. 启动后端服务：
+   ```bash
+   python app.py
+
 
 
